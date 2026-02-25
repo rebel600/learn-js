@@ -1,1 +1,1 @@
-Learn Javascript concepts.
+Learn Javascript core concepts.
